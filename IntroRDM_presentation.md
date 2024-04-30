@@ -158,26 +158,32 @@ Some rules for today:
 <div style="page-break-after: always;"></div>
 
 ## Goals today
-At the end of the workshop you…
+At the end of the workshop you should…
 
 <div style="float:left; width:60%;">
   <p>
 
 - have a basic idea of the general concept of RDM and know some important related terms.
 
-- can describe what research data are and know the research data lifecycle.
+- can describe what research data and research data management is.
 
-- can explain the importance of documentation and know what metadata are.
+- can describe the research data lifecycle.
+
+- can describe the FAIR-principles.
+
+- can recall some important rules in regard of naming files and folders.
+
+- can explain the importance of documentation and can describe what metadata are.
 
 - can identify and assess data formats.
 
 - can distinguish back up and long-term storage.
 
-- can describe the FAIR-principles.
-
 - can describe what a DMP is.
 
-- know the requirements of funders and RDM related CAU contacts.
+- have heard of requirements of funders & other important players.
+
+- know RDM related CAU contacts.
 
 - had some time to exchange with peers.
 
@@ -201,17 +207,17 @@ Let us have a look at our workload for today:
 <div style="float:left; width:60%;">
   <p>
 
-- Expectations
 - Research data and research data management
 - Research data lifecycle
+- FAIR principles
 - Data organisation
-- Documentation & metadata
 
   ***LUNCH BREAK***
 
+- Documentation & metadata
 - Data formats
 - Back up & long-term storage
-- FAIR principles and Open X
+- Open X
 - Data publication
 - Data management plan (DMP)
 - RDM related organisations & funder requirements
@@ -339,84 +345,12 @@ onclick="alert('Let´s play!');"
 
 <div style="page-break-after: always;"></div>
 
-## Expectations
-We would like to know a little bit more about your expectations and your fears regarding this workshop.
-
-> **Group work**:
->![image](images/kurzberichte.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Group work');"
--->
->
-> Collect your ***hopes/wishes***<!-- style='color: #9a047f' --> and your ***fears***<!-- style='color: #9a047f' --> regarding this workshop, using oncoo cards.
->
-> https://www.oncoo.de/0fou
-
-<div style="page-break-after: always;"></div>
-
-### Review Expectations
-
-<iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
-
-<div style="page-break-after: always;"></div>
-
 ## Research data and research data management
 
-![image](images\FragezeichenTyp.jpg)<!--
-style="width: 20%; max-width: 100px; float:right; margin: 10px;"
-title="puzzle"
-onclick="alert('What do you think?');"
--->
-
->**Which aspects belong to the topic "research data management?"**
->
-> Today you are supposed to learn something about research data management. What do you think: Which aspects belong to the topic?
->
->**Let's collect together!**
->
-> Enter words that you associate with the term "research data management".
->
->You may enter as many words as you like: https://answergarden.ch/2861448
-
----
-
-{{1}}
-********************************************************************************
-
-<iframe src="https://answergarden.ch/2861448" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-### Research Data Management
-
-{{0-3}}
-****************
-
-What is research data management?
----
-****************
-
-{{1-3}}
-****************
-> ‘Research data management is an explicit process covering the creation and stewardship of research materials to enable their use for as long as they retain value.’
->
->[DCC Glossary](http://www.dcc.ac.uk/digital-curation/glossary#R)
-
-****************
-
-{{2-3}}
-****************
-> ‘Research Data Management (RDM) is the methodical handling of the information produced or re-used during the course of academic research.’
->
->[University of Edinburgh Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/research-data-management)
-
-******************
-
 ### Research Data
+
+{{0-1}}
+********************************************************************************
 
 ><big>**What is reserach data?**</big>
 >![image](images\kurzberichte.png)<!--
@@ -425,14 +359,25 @@ title="puzzle"
 onclick="alert('Let´s work together!');"
 -->
 >
->Let us have a quick **chat survey**:
->
->Please enter everything, you think can be research data into the chat.
+>>Today you are supposed to learn something about research data management.
+>>
+>>**What do you think**: What are research data? Collect as many examples for research data as you can think of.
+>>
+>>https://answergarden.ch/2861448
+---
 
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+<iframe src="https://answergarden.ch/2861448" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+********************************************************************************
 
 <div style="page-break-after: always;"></div>
 
-{{1}}
+{{2}}
 **********
 What is research data?
 ---
@@ -443,7 +388,7 @@ What is research data?
 
 **********
 
-{{2}}
+{{3}}
 ***********
 > _‘Any information you use in your research.‘_
 >
@@ -451,7 +396,7 @@ What is research data?
 
 ************
 
-{{3}}
+{{4}}
 ***************
 > _‘All researchers work with data and/or datasets, but what you call data will depend on your discipline. As a humanities scholar you might talk about your primary sources or texts. If your research is in a social science, you may think in terms of survey results, interviews and statistics. You will probably have different terms again for the outputs of your experiments and observations if you are a scientist.’_
 >
@@ -482,13 +427,38 @@ What is research data?
 
 <div style="page-break-after: always;"></div>
 
+### Research Data Management
+
+{{0-3}}
+****************
+
+What is research data management?
+---
+****************
+
+{{1-3}}
+****************
+> ‘Research data management is an explicit process covering the creation and stewardship of research materials to enable their use for as long as they retain value.’
+>
+>[DCC Glossary](http://www.dcc.ac.uk/digital-curation/glossary#R)
+
+****************
+
+{{2-3}}
+****************
+> ‘Research Data Management (RDM) is the methodical handling of the information produced or re-used during the course of academic research.’
+>
+>[University of Edinburgh Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/research-data-management)
+
+******************
+
 ## Research data lifecycle
 
 <center>
 {{0-1}}
 ************
-![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
 
+![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
 
 ************
 </center>
@@ -500,12 +470,12 @@ What is research data?
 **Planning**:
 
 * How do you plan to create data?
-* Will data be reused?
+* Will data be reused? How is the data available?
 * Which data types, in terms of data formats (e.g. image data, text data or measurement data in tables) are created?
-* Which analyses are planned?
 * What volume of data can be expected?
 * What legal and ethical aspects need to be taken into account?
-* Who is responsible?
+* Who is responsible (for what)?
+* Which analyses are planned? What requirements must the data meet in order to be analysed as planned? What kind of software environment will you need?
 
 ************
 
@@ -513,35 +483,41 @@ What is research data?
 ************
 **Collection and analysis**:
 
-* What approaches are taken to document your work in a comprehensible manner?
+* Which (digital) methods and tools (e.g. software) are required collect and safe the (raw) data?
 * What measures are taken to ensure high quality of the data?
-* Which digital methods and tools (e.g. software) are required to use and analyse the data?
-* How will the data be stored and backed up during the project?
-* How will the security of sensitive data be guaranteed during the project (access and utilisation management)?
+* What approaches are taken to document all your work in a comprehensible manner?
+* Which digital methods and tools (e.g. software) are required to read, use and analyse the data?
+* How and where will the data be stored during the project?
+* What is your back up strategy?
+* How will the security of sensitive data be guaranteed during the project (access and usage management)?
+
 ************
 
 {{3-4}}
 ************
 **Archiving & publication**:
 
-* What legal particularities exist in connection with the handling of research data in the research project?
-* Are there any effects or restrictions to be expected with regard to subsequent publication or accessibility?
-* How are utilisation and copyright aspects as well as ownership issues taken into account?
+* What legal conditions need to be considered in regard of publishing your research data?
+* What ethical conditions need to be considered in regard of publishing your research data?
+* Are there any effects or restrictions to be expected with regard to publication or accessibility of the data?
+* How are usage and copyright aspects as well as ownership issues taken into account?
 * Are there any important scientific codes or professional standards that should be taken into account?
+
 ************
 
 {{4-5}}
 ************
-**Subsequent use**:
+**Re-use**:
 
 * Which data is particularly suitable for re-use?
 * What criteria are used to select research data in order to make it available for re-use by others?
 * Do you plan to archive your data in a suitable infrastructure?
-* If so, how and where? Are there embargo periods?
-* When can the research data be used by third parties?
+* Are there embargo periods?
+* When can the research data expected to be used by third parties?
+
 ************
 
-{{6}}
+{{5}}
 ************
 
 ![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg) <!-- width="300px" align="right" -->
@@ -551,11 +527,11 @@ Individual work:
 
 Think about your own PhD project and add keywords to the stations of the research data lifecycle that describe what steps and procedures at each station are relevant to your research data.
 
-Find your workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764554868302384&cot=14)
+Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764570165589491&cot=14)
 
 -> Does this research data lifecycle fit to your research project?
 
--> Are there any deviations?
+-> Are there any deviations? If yes, please mark deviations.
 
 ************
 
@@ -572,7 +548,136 @@ Find your workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/
 
 <div style="page-break-after: always;"></div>
 
+## FAIR Data Principles
+
+{{0-1}}
+****************
+
+<div style="width:50%;">
+  <img src="images/fair2.jpg" alt="targets">
+  <sub><span style="text-align: right;">Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021)</span></sub>
+</div>
+
+****************
+
+{{1-2}}
+> An important goal of research data management is to keep data 
+>
+>🔍 **F**indable,
+>
+>🔐 **A**ccessible,
+>
+>🔗 **I**nteroperable and
+>
+>♻️ **R**eusable
+>
+>in the ~~long term~~ and ~~independent of individuals~~.
+
+
+<div style="page-break-after: always;"></div>
+
+{{2}}
+>**F**indable
+
+{{3-4}}
+****************
+The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.
+
+F1. (Meta)data are assigned a globally unique and persistent identifier
+
+F2. Data are described with rich metadata (defined by R1 below)
+
+F3. Metadata clearly and explicitly include the identifier of the data they describe
+
+F4. (Meta)data are registered or indexed in a searchable resource
+
+***************
+
+{{2}}
+>**A**ccessible
+
+{{4-5}}
+***********************
+Once the user finds the required data, the user needs to know how data can be accessed, including authentication and authorisation.
+
+A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+
+A1.1 The protocol is open, free, and universally implementable
+
+A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+
+A2. Metadata are accessible, even when the data are no longer available
+
+******************
+
+{{2}}
+>**I**nteroperable
+
+{{5-6}}
+**********************
+The data usually needs to be integrated with other data. In addition, the data needs to interoperate with applications or workflows for analysis, storage, and processing.
+
+I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+
+I2. (Meta)data use vocabularies that follow FAIR principles
+
+I3. (Meta)data include qualified references to other (meta)data
+
+**********************
+
+{{2}}
+>**R**eusable
+
+{{6-7}}
+***************
+The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be understood, replicated and/or combined in different settings.
+
+R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
+
+R1.1. (Meta)data are released with a clear and accessible data usage license
+
+R1.2. (Meta)data are associated with detailed provenance
+
+R1.3. (Meta)data meet domain-relevant community standards
+
+**************
+
+<div style="page-break-after: always;"></div>
+
+### Movie time!📽️😀
+
+{{0-1}}
+****************
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+****************
+
+{{1}}
+****************
+
+>__Let´s discuss!__
+>![image](images/working.png)<!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('working');"
+-->
+>You will be assigned to group F, A, I, or R. Think about your own projects and evaluate the handling of research data against the one principle you have been assigned to. Compare with the video. Do scenes in the video look familiar to you?
+>
+>- Where do you (or all of us) need to improve?
+>- What do you need (e. g. knowledge, tools, methods) in order to comply with the FAIR principles?
+>
+>Use the Miro-Board to take notes: https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764555145308718&cot=14
+
+****************
+
+<div style="page-break-after: always;"></div>
+
 ## Data organisation
+{{0-1}}
+****************
 
 <div style="text-align:center">
 ><p style="color:#9a047f">**It may seem trivial, but structured folder and file naming is a first step in research data management!**</p>
@@ -585,35 +690,116 @@ Find your workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/
 </div>
 
 <div style="page-break-after: always;"></div>
+****************
 
-### Organize your Files
+{{1}}
+****************
+>Measures in research data management serve to improve findability and traceability of research data and to avoid data loss with the aim of increasing the (person-independent) **re-usability** of research data.
+>
+>**The first person to want to re-use your own data may be yourself**!
+>
+>Always store, name and document your data in such a way that you minimise the risk of data loss.
+>
+>Always think of your future self! Store, name and document your own data in such a way that you can find, understand and re-use it as easily as possible.
 
-- Try to find meaningful names ➞ no “fantasy names”
-- Use a uniform scheme and a logical structure
+****************
 
-  - Folder structure and file names
+### General notes
 
-  - Hierarchic order with first things first
+{{0-3}}
+*****************
 
-  - Think about your preferences in ___sorting!___
+- **Never touch raw data! Always keep your raw data unchanged in a separate folder**.
 
+********************************************************************************
+
+{{1-3}}
+********************************************************************************
+
+- Try to find ‘speaking’ names for folders and files ➞ no ‘fantasy names’ 🦄, no random character strings
+
+- Develop a standardised scheme and a logical structure
+
+  - for both folder and file names.
+
+  - Folders in hierarchical order with the most important first.
+
+  - Limit yourself to a maximum of three folder levels, ensure a maximum path length of 256 characters.
+
+  - Keep your personal preferences in mind during development, e.g. for ___sorting!___
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
 - Follow [***ISO 8601***](https://en.wikipedia.org/wiki/ISO_8601) for dates and times
 
-  - Date & time, e.g., YYYYMMDDThhmmss±hhmm
+  - Date and time, e.g. YYYY-MM-DD-hh-mm-ss or YYYYMMDDhhmmss
 
-  - Date, e.g., YYYY-MM-DD
+********************************************************************************
 
-- Versions? Use the [***semantic versioning scheme***](https://semverdoc.org/) (Major.Minor.Patch), e.g., 2.0.0
+{{3-4}}
+********************************************************************************
 
-- Avoid of blanks and special characters  “🦄”
+- Always avoid spaces and all special characters (including special letters, such as german umlauts).
 
-- ***Document*** your naming conventions and abbreviations used
+  - The following characters in particular should **NOT** be used in folder or file names:
 
-  -  Readme.md
+    - less than: <
+
+    - greater than: >
+
+    - colon: :
+    
+    - double quotation mark: “
+    
+    - slash: /
+    
+    - backslash: \
+    
+    - vertical bar or pipe: |
+    
+    - question mark: ?
+    
+    - asterisk: \*
+
+  - The only unproblematic special characters in folder or file names are underscore (_) and hyphen/minus (-)
+
+********************************************************************************
+
+{{4-7}}
+********************************************************************************
+
+- Prefix consecutive numbers with a sufficient number of zeros (e.g. 001 for numbering from 1 to 100)
+
+********************************************************************************
+
+{{5-7}}
+********************************************************************************
+
+- Use only one dot per file name -> between the file name and format suffix (e.g. filename.txt)
+
+********************************************************************************
+
+{{6-7}}
+********************************************************************************
+
+- Upper and lower case is considered different by some file systems, but not by others.  
+
+********************************************************************************
+
+{{7}}
+********************************************************************************
+
+- ***Document*** your folder structures as well as the naming conventions and abbreviations used!
+
+  - Readme.md
+
+**********************************************************
 
 <div style="page-break-after: always;"></div>
 
-### Examples for Naming Conventions
+### Examples
 
 {{0-1}}
 ********************************************************************************
@@ -638,26 +824,15 @@ Find your workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/
 
 ****************************************
 
-<div style="page-break-after: always;"></div>
+{{2}}
+****************************************
 
-### Which one is a good name?
+>**Why [***ISO 8601***](https://en.wikipedia.org/wiki/ISO_8601) for dates and times?**
+>
+>>- **Kristall\_765\_spektr\_2016-12-03.csv**
+>>- **Kristall\_765\_spektr\_16-12-03.csv**
 
-Which examples are following a good naming convention?
-
-- Olga\_170413_probe17k
-- Naturepaper-marc-mira-ready!
-- Vm4520132Schmidt.pdf
-- Kristall\_765\_spektr\_2016-12-03.csv
-- 170413\_probe17k\_olga
-- Naturepaper+karl+britta+james&nal
-- Olga170413probe17k
-- Krst\_765\_spkt\_161203
-- Naturepaper+karl+britta+james ready!\_revised
-- 012\_maus\_mrna\_20200912
-- Nature\_karl&jan\_endendversion
-- 28q8QGlHKwrRw.pdf
-- Tagung\_Digitale\_Wissenschaft.pdf
-- 647749157 .pdf
+****************************************
 
 <div style="page-break-after: always;"></div>
 
@@ -675,6 +850,10 @@ Which examples are following a good naming convention?
 
 - Store versions in separate files
 
+  - can be included in file names
+  
+  - ❌❌ Do **NOT** use unspecific name components, such as **final**, **finished**, **new** or similar ❌❌
+
   - Semantic versioning (Major.Minor.Patch), e.g.,
 
     - __0.1.0__ (a beta)
@@ -682,8 +861,6 @@ Which examples are following a good naming convention?
     - __1.0.0__ (a release version)
 
     - __1.0.1__ (a release with slight corrections)
-
-  - can be included in file names
 
   - define what you consider to be a "release" or a "slight correction"
 
@@ -725,7 +902,7 @@ Which examples are following a good naming convention?
 
 {{3-4}}
 ********************************************************************************
-**Example for Version Information within a document:**
+**Example for version information within a document:**
 
 <img src="images/versionsdoku-beispiel-rda_2.png" alt="Version Information inside a document">
 
@@ -772,6 +949,17 @@ onclick="alert('Individual work');"
 >5. the versioning scheme, if applicable
 >
 >Use your workspace on the miro-Board to take notes.
+
+<div style="page-break-after: always;"></div>
+
+## BREAK
+<center>
+
+**Have a break!**
+
+![Breaktime](images/break.png)
+
+</center>
 
 <div style="page-break-after: always;"></div>
 
@@ -1123,20 +1311,10 @@ onclick="alert('Data documentation');"
 
 <div style="page-break-after: always;"></div>
 
-## BREAK
-
-<center>
-
-**Have a break!**
-
-![Breaktime](images/break.png)
-
-</center>
-
-<div style="page-break-after: always;"></div>
 
 ## File formats
-
+{{0-1}}
+*************
 >**Group work**:
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
@@ -1149,6 +1327,8 @@ onclick="alert('Let´s work together!');"
 >Post all file formats you are working with into the answergarden:
 >
 >https://answergarden.ch/3931685
+
+*************
 
 {{1}}
 *************
@@ -1223,172 +1403,27 @@ How do your store your (sensitive) data?
 | -------------------------------------------------------------------------------- | ----------------------------- |
 | Automatic backup of all data   | Storage of only selected data |
 | All versions                                                                     | Final version only            |
-|   to prevent data loss (technical, e.g. defective, or human, e.g. accidentally deleted) | Integrity backup       |
+|   to prevent data loss <br>(technical, e.g. defective, <br>or human, e.g. accidentally deleted) | Integrity backup <br> (e. g. regular check for modified or damaged data, <br>file system consitency)      |
 |                                                                                  | Long-term storage             |
 |                                                                                  | Searchability                 |
 
 <div style="page-break-after: always;"></div>
 
-## FAIR Data Principles
 
-{{0-1}}
-****************
+## BREAK
 
->***An important goal of structured research data management is to keep data accessible, reusable and verifiable in the long term and independent of individuals.***
+<center>
 
-<div style="width:50%;">
-  <img src="images/fair2.jpg" alt="targets">
-  <sub><span style="text-align: right;">Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021)</span></sub>
-</div>
+**Have a break!**
 
-****************
+![Breaktime](images/break.png)
 
-<div style="page-break-after: always;"></div>
-
-{{1}}
->**F**indable
-
-{{2-3}}
-****************
-The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.
-
-F1. (Meta)data are assigned a globally unique and persistent identifier
-
-F2. Data are described with rich metadata (defined by R1 below)
-
-F3. Metadata clearly and explicitly include the identifier of the data they describe
-
-F4. (Meta)data are registered or indexed in a searchable resource
-
-***************
-
-{{1}}
->**A**ccessible
-
-{{3-4}}
-***********************
-Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorisation.
-
-A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
-
-A1.1 The protocol is open, free, and universally implementable
-
-A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
-
-A2. Metadata are accessible, even when the data are no longer available
-
-******************
-
-{{1}}
->**I**nteroperable
-
-{{4-5}}
-**********************
-The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
-
-I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-
-I2. (Meta)data use vocabularies that follow FAIR principles
-
-I3. (Meta)data include qualified references to other (meta)data
-
-**********************
-
-{{1}}
->**R**eusable
-
-{{5-6}}
-***************
-The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
-
-R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
-
-R1.1. (Meta)data are released with a clear and accessible data usage license
-
-R1.2. (Meta)data are associated with detailed provenance
-
-R1.3. (Meta)data meet domain-relevant community standards
-
-**************
-
-<div style="page-break-after: always;"></div>
-
-### Snafu Video
-
-Movie time!
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
-{{1}}
-****************
-
-> **Group work**:
->![image](images/kurzberichte.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Group work');"-->
->Your will be assigned to group F, A, I or R.
->
->Please discuss in each group:
->
->* What is the benefit of good research data management?
->
->* Depending on the group your are assigned to, please also discuss what aspects, problems & solutions have been touched  
->
->   * regarding F(indability),
->   * A(ccessibility)
->   * I(nteroperability)
->   * R(eusablity) of data.
->
->Use the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764555145308718&cot=14) to take notes.
-
-****************
-
-{{2}}
-********************
-The benefits of good research data management are...
----
-- Reproducibility of results
-- Findability of the data
-- Traceability of research
-- Transparency of research
-- Quality assurance and quality attribute
-- Efficiency in the research process
-- Sustainability
-- Knowledge generation
-- No redundancy
-- Structuring, organisation
-- Enable collaborations
-- …
-- …
-****************
+</center>
 
 <div style="page-break-after: always;"></div>
 
 
-### How FAIR is your data?
-
->__Let´s discuss!__
->![image](images/working.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Individual work');"
--->
->Think about your own project and evaluate the handling of your research data against the FAIR principles.
->
->- Which of the FAIR principles do you already comply with?
->- Where do you (or all of us) need to improve?
->- What do you need in order to comply with the FAIR principles?
-
-<div style="page-break-after: always;"></div>
-
-## Open X
-
-* Open Science
+## Openess of Data
 
 * Open Access
 
@@ -1726,18 +1761,6 @@ Example:
 <div style="page-break-after: always;"></div>
 
 
-## BREAK
-
-<center>
-
-**Have a break!**
-
-![Breaktime](images/break.png)
-
-</center>
-
-<div style="page-break-after: always;"></div>
-
 ## Data management plan (DMP)
 
 > What is a data management plan?
@@ -2046,7 +2069,6 @@ Principle 3
 ## Take-Away Messages
 
 > Practical Take-Away Messages
----
 
 1. <p style="color:#9a047f">**Document your data**</p>
 
@@ -2137,7 +2159,7 @@ title="puzzle"
 onclick="alert('Questions?');"
 -->
 >
->Time for open questions!
+>Time for questions!
 
 <div style="page-break-after: always;"></div>
 
@@ -2185,6 +2207,8 @@ https://www.fdm.uni-kiel.de/de/team
 
 <div style="page-break-after: always;"></div>
 
-## Thank you!
+## Thank you! :-)
 
-:-)
+Please take care of your data! 🌼
+---
+
