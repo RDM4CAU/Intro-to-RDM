@@ -339,7 +339,7 @@ onclick="alert('Let´s play!');"
 
 <div style="page-break-after: always;"></div>
 
-## Reasons to be here
+## Expectations
 We would like to know a little bit more about your expectations and your fears regarding this workshop.
 
 > **Group work**:
@@ -349,13 +349,13 @@ title="working"
 onclick="alert('Group work');"
 -->
 >
-> Introduce yourself to your group members. Together collect your ***reasons to be here***<!-- style='color: #9a047f' --> and possible ***concerns***<!-- style='color: #9a047f' --> regarding this workshop, using oncoo cards.
+> Collect your ***hopes/wishes***<!-- style='color: #9a047f' --> and your ***fears***<!-- style='color: #9a047f' --> regarding this workshop, using oncoo cards.
 >
 > https://www.oncoo.de/0fou
 
 <div style="page-break-after: always;"></div>
 
-### Review 
+### Review Expectations
 
 <iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
 
@@ -418,7 +418,7 @@ What is research data management?
 
 ### Research Data
 
-><big>**What is research data?**</big>
+><big>**What is reserach data?**</big>
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
@@ -629,7 +629,6 @@ Find your workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/
 
 {{1-2}}
 ****************************************
-<div style="page-break-after: always;"></div>
 
 >**Example for a file name following a naming convention**
 >
@@ -1348,7 +1347,6 @@ onclick="alert('Group work');"-->
 >Use the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764555145308718&cot=14) to take notes.
 
 ****************
-<div style="page-break-after: always;"></div>
 
 {{2}}
 ********************
@@ -2078,8 +2076,6 @@ Principle 3
 
 *************
 
-<div style="page-break-after: always;"></div>
-
 3. <p style="color:#9a047f">**Storage**</p>
 
 {{3-4}}
@@ -2119,8 +2115,6 @@ Principle 3
 >    - [Zenodo](https://zenodo.org/)
 
 ************
-
-<div style="page-break-after: always;"></div>
 
 5. <p style="color:#9a047f">**Licensing**</p>
 
