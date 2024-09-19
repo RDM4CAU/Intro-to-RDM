@@ -145,6 +145,8 @@ Some rules for today:
 
 * Please allow mistakes -> positive culture of mistakes.
 
+* No racism or sexism
+
 </p>
 
 
@@ -217,7 +219,7 @@ Let us have a look at our workload for today:
 - Documentation & metadata
 - Data formats
 - Back up & long-term storage
-- Open X
+- Openess of data
 - Data publication
 - Data management plan (DMP)
 - RDM related organisations & funder requirements
@@ -398,9 +400,9 @@ What is research data?
 
 {{4}}
 ***************
-> _‘All researchers work with data and/or datasets, but what you call data will depend on your discipline. As a humanities scholar you might talk about your primary sources or texts. If your research is in a social science, you may think in terms of survey results, interviews and statistics. You will probably have different terms again for the outputs of your experiments and observations if you are a scientist.’_
+> _‘The term “research data” generally refers to all kinds of (digital) data that represent the result of scientific work or that serve as a basis for such work. Research data is generated using a wide variety of methods, such as measurements, source research or surveys. Therefore, it is always subject- and project-specific.’_
 >
->[Monash University Library Data Management Brochure](https://www.monash.edu/__data/assets/pdf_file/0010/185869/data-management-brochure.pdf)
+>[Uni Giessen](https://www.uni-giessen.de/ub/en/resteach/researchdata#anchor_what-is-research-data)
 
 **************
 
@@ -527,7 +529,7 @@ Individual work:
 
 Think about your own PhD project and add keywords to the stations of the research data lifecycle that describe what steps and procedures at each station are relevant to your research data.
 
-Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764570165589491&cot=14)
+Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVLdWSsPY=/?moveToWidget=3458764600483701115&cot=14)
 
 -> Does this research data lifecycle fit to your research project?
 
@@ -669,7 +671,7 @@ onclick="alert('working');"
 >- Where do you (or all of us) need to improve?
 >- What do you need (e. g. knowledge, tools, methods) in order to comply with the FAIR principles?
 >
->Use the Miro-Board to take notes: https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764555145308718&cot=14
+>Use the Miro-Board to take notes: https://miro.com/app/board/uXjVLdWSsPY=/?moveToWidget=3458764600483701087&cot=14
 
 ****************
 
@@ -906,7 +908,7 @@ onclick="alert('working');"
 
 <img src="images/versionsdoku-beispiel-rda_2.png" alt="Version Information inside a document">
 
-Have a look here: [Principles and best practices in data versioning for all data sets big and small](https://www.rd-alliance.org/group/data-versioning-wg/outcomes/principles-and-best-practices-data-versioning-all-data-sets-big)
+Have a look here: [Principles and best practices in data versioning for all data sets big and small](https://www.rd-alliance.org/group_output/principles-and-best-practices-in-data-versioning-for-all-data-sets-big-and-small/)
 
 ********************************************************************************
 
@@ -1051,7 +1053,7 @@ onclick="alert('Let´s work together!');"
 „Scientists and scholars shall document all information relevant to the achievement of a research result as comprehensibly as it is necessary and appropriate in the concerned scientific field in order to be able to verify and evaluate the result. […]“
 </p>
 >
-><P><SMALL>Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur guten wissenschaftlichen Praxis. Kodex. http://doi.org/10.5281/zenodo.3923602, S. 17.  
+><P><SMALL>Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur guten wissenschaftlichen Praxis. Kodex. https://zenodo.org/records/6472827, S. 17.  
 </SMALL></P>
 
 ********************************************************************************
@@ -1471,6 +1473,7 @@ How do your store your (sensitive) data?
 >
 >* [Guidelines for promoting Open Access at Kiel University](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
 >* [University Library](https://www.ub.uni-kiel.de/de/publizieren/publizieren/informationen) provides information, help and services.
+>   * [Funding of OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
 >* [MACAU is the Open Access Repository of Kiel University (CAU)](https://macau.uni-kiel.de/content/publish/information.xml)
 
 <div style="page-break-after: always;"></div>
