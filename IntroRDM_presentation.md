@@ -1519,7 +1519,7 @@ $$
 >* [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de) provides information, help and services.
 >* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml) is the Open Data Repository of Kiel University (CAU)
 
-### Licenses
+## Licenses
 {{0-1}}
 *******************
 - Licenses regulate conditions of subsequent use of published data.
