@@ -10,6 +10,8 @@ icon:     images\cau-norm-en-lilagrey-rgb.png
 
 logo:     https://git-scm.com/images/branching-illustration@2x.png
 
+link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
+
 comment:  Presentation for full day workshop "Introduction to Research Data Management" for PhDs
 
 script:   https://cdn.jsdelivr.net/npm/mermaid@9.1.1/dist/mermaid.min.js
