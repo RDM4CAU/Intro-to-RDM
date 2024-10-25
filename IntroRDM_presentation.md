@@ -101,13 +101,15 @@ draw("@0", `@input`)
 
 # Welcome
 
+<script input="button">
+alert("Disclaimer: Please note that you are leaving the CAU net once you open this presentation in your browser. This presentation includes links to other third party websites and services. These sites are not under our control. RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies. Please read third party privacy and security policies closely.")
+
+"Disclaimer"
+</script>
+
 >**Thilo Paul-Stüve, Britta Petersen, Linda Zollitsch**
 >
 >Central Research Data Management of Kiel University
->
->**Disclaimer**: Please note that you are leaving the CAU pages once you open this presentation in your browser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to the respective another websites. These sites are not under our control.
->
->RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies, so please read third party privacy and security policies closely.
 >
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
