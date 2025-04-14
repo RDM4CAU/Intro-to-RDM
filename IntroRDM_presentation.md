@@ -358,7 +358,7 @@ onclick="alert('Let´s play!');"
 {{0-1}}
 ********************************************************************************
 
-><big>**What is reserach data?**</big>
+><big>**What are reserach data?**</big>
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
@@ -369,7 +369,7 @@ onclick="alert('Let´s work together!');"
 >>
 >>**What do you think**: What are research data? Collect as many examples for research data as you can think of.
 >>
->>https://answergarden.ch/2861448
+>>https://answergarden.ch/4936688
 ---
 
 ********************************************************************************
@@ -377,7 +377,7 @@ onclick="alert('Let´s work together!');"
 {{1-2}}
 ********************************************************************************
 
-<iframe src="https://answergarden.ch/2861448" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://answergarden.ch/4936688" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ********************************************************************************
 
@@ -385,7 +385,7 @@ onclick="alert('Let´s work together!');"
 
 {{2}}
 **********
-What is research data?
+What are research data?
 ---
 
 > _‘In short data means whatever is necessary to validate or reproduce your research findings, or to gain a richer understanding of them.’_
