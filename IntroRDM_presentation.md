@@ -446,7 +446,7 @@ What is research data management?
 ****************
 > ‘Research data management is an explicit process covering the creation and stewardship of research materials to enable their use for as long as they retain value.’
 >
->[DCC Glossary](http://www.dcc.ac.uk/digital-curation/glossary#R)
+>[DCC Glossary](https://www.dcc.ac.uk/about/digital-curation/glossary#R)
 
 ****************
 
@@ -655,7 +655,8 @@ R1.3. (Meta)data meet domain-relevant community standards
 {{0-1}}
 ****************
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc
+" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -1054,10 +1055,10 @@ onclick="alert('Let´s work together!');"
 ********************************************************************************
 
 ><p style="color:#9a047f">**Guideline 12: Documentation**
-„Scientists and scholars shall document all information relevant to the achievement of a research result as comprehensibly as it is necessary and appropriate in the concerned scientific field in order to be able to verify and evaluate the result. […]“
+„Researchers document all information relevant to the production of a research result as clearly as is required by and is appropriate for the relevant subject area to allow the result to be reviewed and assessed.[…]“
 </p>
 >
-><P><SMALL>Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur guten wissenschaftlichen Praxis. Kodex. https://zenodo.org/records/6472827, S. 17.  
+><P><SMALL>Deutsche Forschungsgemeinschaft. (2022). Guidelines for Safeguarding Good Research Practice. Code of Conduct. https://zenodo.org/records/14281892, S. 16f.  
 </SMALL></P>
 
 ********************************************************************************
