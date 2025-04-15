@@ -1477,9 +1477,9 @@ How do your store your (sensitive) data?
 >**Information and services @Kiel University:**
 >
 >* [Guidelines for promoting Open Access at Kiel University](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
->* [University Library](https://www.ub.uni-kiel.de/de/publizieren/publizieren/informationen) provides information, help and services.
+>* [University Library](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
 >   * [Funding of OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
->* [MACAU is the Open Access Repository of Kiel University (CAU)](https://macau.uni-kiel.de/content/publish/information.xml)
+>* [MACAU is the Open Access Repository of Kiel University (CAU)](https://macau.uni-kiel.de/content/publish/information.xml?lang=en)
 
 <div style="page-break-after: always;"></div>
 
@@ -1521,8 +1521,8 @@ $$
 >**Information and services @Kiel University:**
 >
 >* No guidelines for promoting Open Data at Kiel University :-(
->* [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de) provides information, help and services.
->* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml) is the Open Data Repository of Kiel University (CAU)
+>* [Central Research Data Management](https://www.fdm.uni-kiel.de/en?set_language=en) provides information, help and services.
+>* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml?lang=en) is the Open Data Repository of Kiel University (CAU)
 
 ## Licenses
 {{0-1}}
@@ -1625,7 +1625,7 @@ Example:
 
 * cross-disciplinary repositories, e.g. [ZENODO](https://zenodo.org/)
 
-* institutional repositories, e.g. [Refubium](https://www.fu-berlin.de/sites/open_access/refubium/index.html), [opendata@uni-kiel.de](https://opendata.uni-kiel.de/content/index.xml)
+* institutional repositories, e.g. [Refubium](https://www.fu-berlin.de/en/sites/open_access/refubium/index.html), [opendata@uni-kiel.de](https://opendata.uni-kiel.de/content/index.xml?lang=en)
 
 Example:
 
@@ -1683,8 +1683,12 @@ Example:
 <div style="page-break-after: always;"></div>
 
 ### Repositories
+
 {{0-2}}
+***************************
 **What is a repository?**
+
+***************************
 
 {{1-2}}
 ****************
@@ -1820,7 +1824,7 @@ title="working"
 onclick="alert('Individual work');"
 -->
 >
->Download the CAU template for data management plans: [CAU\_DMP\_Template](https://www.datamanagement.uni-kiel.de/de/service/materialien)
+>Download the CAU template for data management plans: [CAU\_DMP\_Template](https://www.fdm.uni-kiel.de/en/services/materials?set_language=en)
 >
 >Have look at the template and try to sketch out a DMP for your research project.
 >
@@ -1865,7 +1869,7 @@ onclick="alert('Individual work');"
   - __Mission__: RDA builds the social and technical bridges that enable open sharing of data
 
 - __Bottom-up__ development of practices, infrastructures, tools, technologies, services, approaches, policies, etc.
-- __Practitioners__ come together in [Birds of a Feather-Groups (BoF)](https://www.rd-alliance.org/groups/creating-and-managing-rda-groups/creating-or-joining-birds-feather-group), [Interest Groups (IG)](https://www.rd-alliance.org/groups/interest-groups) or [Working Groups (WG)](https://www.rd-alliance.org/groups/working-groups)
+- __Practitioners__ come together in [Birds of a Feather-Groups (BoF)](https://www.rd-alliance.org/birds-of-a-feather/), [Interest Groups (IG)](https://www.rd-alliance.org/group-directory/?_group_type=interest-group) or [Working Groups (WG)](https://www.rd-alliance.org/group-directory/?_group_type=working-group)
 - Regional chapters, e.g., [RDA Europe](https://www.rd-alliance.org/rda-europe) or [RDA Deutschland e.V.](https://www.rda-deutschland.de/)
 - Strong __influence__ on European Commission, BMBF, DFG, …
 
