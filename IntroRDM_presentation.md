@@ -1901,7 +1901,7 @@ onclick="alert('Individual work');"
 
 - Horizontal linking of existing actors
 
-  - Discipline-specific [NFDI consortia](https://www.nfdi.de/konsortien-2) with with binding roadmaps
+  - Discipline-specific [NFDI consortia](https://www.nfdi.de/consortia/?lang=en) with with binding roadmaps
 
   - Bring into use existing infrastructure
 
