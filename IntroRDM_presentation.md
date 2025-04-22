@@ -1976,7 +1976,7 @@ onclick="alert('Individual work');"
 
 - [Horizon Europe – Programme Guide – Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf#page=38)
 
-- [Horizon Europe – Data Management Plan Template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx)
+- [Horizon Europe – Data Management Plan Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents;programCode=HORIZON?programmePeriod=2021-2027&frameworkProgramme=43108390)
 
 - Open access to research data is applicable by default
 
@@ -2140,9 +2140,9 @@ Principle 3
 >
 >    - NFDI (work in progress)
 >
->    - [European Open Science Cloud Services](https://marketplace.eosc-portal.eu/services/c/sharing-discovery)
+>    - [European Open Science Cloud Services](https://open-science-cloud.ec.europa.eu/)
 >
->  - Institutional Data Repository: [opendata@uni-kiel](https://opendata.uni-kiel.de/)
+>  - Institutional Data Repository: [opendata@uni-kiel](https://opendata.uni-kiel.de/content/index.xml?lang=en)
 >
 >  - Generic Repositories
 >
@@ -2215,7 +2215,7 @@ onclick="alert('Individual work');"
 
 **RDM contacts at CAU**:
 
-https://www.fdm.uni-kiel.de/de/team
+https://www.fdm.uni-kiel.de/en/team?set_language=en
 
 <div style="page-break-after: always;"></div>
 
