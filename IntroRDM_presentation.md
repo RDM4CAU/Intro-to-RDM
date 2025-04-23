@@ -672,7 +672,7 @@ style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('working');"
 -->
->You will be assigned to group F, A, I, or R. Think about your own projects and evaluate the handling of research data against the one principle you have been assigned to. Compare with the video. Do scenes in the video look familiar to you?
+>You will be assigned to group **F**, **A**, **I**, or **R**. Think about your own projects and evaluate the handling of research data against the one principle you have been assigned to. Compare with the video. Do scenes in the video look familiar to you?
 >
 >- Where do you (or all of us) need to improve?
 >- What do you need (e. g. knowledge, tools, methods) in order to comply with the FAIR principles?
@@ -899,7 +899,7 @@ onclick="alert('working');"
 
 | Versionsnr.  | Changes                      | Date      | changed by |
 | :----------  | :----------                      | ---        | ---               |
-| 1.0          | Release                         | 2016-11-2  | KL                |
+| 1.0          | Release                         | 2016-11-02  | KL                |
 | 1.1          | Erased spelling mistakes  | 2016-11-20 | KL                |
 | 1.2          | Changed layout            | 2017-02-20 | GN                |
 | 2.0          | Add new chapter (3.1.) | 2017-02-20 | GN                |
@@ -1827,7 +1827,7 @@ onclick="alert('Individual work');"
 >
 >Download the CAU template for data management plans: [CAU\_DMP\_Template](https://www.fdm.uni-kiel.de/en/services/materials?set_language=en)
 >
->Have look at the template and try to sketch out a DMP for your research project.
+>Have a look at the template and try to sketch out a DMP for your research project.
 >
 > * What information do you already have?
 > * What information is missing to fill the template?
@@ -2023,7 +2023,7 @@ onclick="alert('Individual work');"
 >
 >Are there specific guidelines for handling research data at your institute?
 >
->Who are the contact persons at CAU and/or your institute if you have questions about handling your digital research data?
+>Who are the contact persons at CAU and/or at your institute if you have questions about handling your digital research data?
 
 *************
 
@@ -2199,7 +2199,7 @@ onclick="alert('Individual work');"
 >
 > You have a date with some friends tonight.
 >
->Your friends remember that you attended a workshop on research data management today and asks: “Well, how was it”?
+>Your friends remember that you attended a workshop on research data management today and ask: “Well, how was it”?
 >
 >What do you answer?
 >
