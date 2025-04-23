@@ -359,7 +359,7 @@ onclick="alert('Let´s play!');"
 {{0-1}}
 ********************************************************************************
 
-><big>**What are reserach data?**</big>
+><big>**What is reserach data?**</big>
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
@@ -386,7 +386,7 @@ onclick="alert('Let´s work together!');"
 
 {{2}}
 **********
-What are research data?
+What is research data?
 ---
 
 > _‘In short data means whatever is necessary to validate or reproduce your research findings, or to gain a richer understanding of them.’_
