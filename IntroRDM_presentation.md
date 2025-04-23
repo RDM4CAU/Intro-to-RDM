@@ -363,12 +363,12 @@ onclick="alert('Let´s play!');"
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
-onclick="alert('Let´s work together!');"
+onclick="alert('Let's work together!');"
 -->
 >
 >>Today you are supposed to learn something about research data management.
 >>
->>**What do you think**: What are research data? Collect as many examples for research data as you can think of.
+>>**What do you think**: What is research data? Collect as many examples for research data as you can think of.
 >>
 >>https://answergarden.ch/4936688
 ---
