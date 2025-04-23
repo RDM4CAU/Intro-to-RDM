@@ -257,7 +257,7 @@ onclick="alert('Let´s play!');"
 >
 >Each time you can agree with the statement show yourself and wave.
 >
->That´s it !
+>That's it !
 
 {{1-2}}
 ********************************************************************************
@@ -346,7 +346,7 @@ onclick="alert('Let´s play!');"
 {{13-14}}
 ********************************************************************************
 
-><p style="color:#9a047f">I was sent to this workshop by my supervisor and really don´t know what am I supposed to do here.</p>
+><p style="color:#9a047f">I was sent to this workshop by my supervisor and really don't know what am I supposed to do here.</p>
 
 ********************************************************************************
 
@@ -666,7 +666,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 {{1}}
 ****************
 
->__Let´s discuss!__
+>__Let's discuss!__
 >![image](images/working.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="working"
