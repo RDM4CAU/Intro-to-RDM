@@ -534,7 +534,7 @@ Individual work:
 
 Think about your own PhD project and add keywords to the stations of the research data lifecycle that describe what steps and procedures at each station are relevant to your research data.
 
-Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVI_3HPSg=/?moveToWidget=3458764600483701085&cot=14)
+Find a workspace at the [Miro-Board](https://miro.com/app/board/uXjVI5UWK7o=/?moveToWidget=3458764600483701115&cot=14)
 
 -> Does this research data lifecycle fit to your research project?
 
@@ -677,7 +677,7 @@ onclick="alert('working');"
 >- Where do you (or all of us) need to improve?
 >- What do you need (e. g. knowledge, tools, methods) in order to comply with the FAIR principles?
 >
->Use the Miro-Board to take notes: https://miro.com/app/board/uXjVI_3HPSg=/?moveToWidget=3458764600483701087&cot=14
+>Use the Miro-Board to take notes: https://miro.com/app/board/uXjVI5UWK7o=/?moveToWidget=3458764600483701087&cot=14
 
 ****************
 
