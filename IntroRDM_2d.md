@@ -2220,6 +2220,150 @@ onclick="alert('Individual work');"
 
 <div style="page-break-after: always;"></div>
 
+# RDM@CAU
+
+{{0-1}}
+***********
+
+<div style="width: 50%; float:right">
+![services](./images/cau-services.png)
+</div>
+
+website: https://www.fdm.uni-kiel.de/de
+
+e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
+
+***********
+
+{{1-2}}
+***********
+**Consultation**
+
+<div style="width: 20%; float:right">
+![working](./images/consultation.png)
+</div>
+
+* Antragsberatung
+
+* DMP Beratung
+
+* technische Beratung (Storage, Backup, Tools, usw.)
+
+* Unterstützung bei Peer Reviews
+
+* Hilfe bei der Datenpublikation
+***********
+
+{{2-3}}
+***********
+**Support in Training & Teaching**
+
+<div style="width: 20%; float:right">
+![working](./images/training.png)
+</div>
+
+* Workshops
+
+ * at Graduate Center, Wissenschaftliche Weiterbildung
+ * small groups
+ * RDM-basics
+ * Specialisation, e.g. Introduction to Git (upon request)
+
+* techical support upon request
+***********
+
+{{3-4}}
+***********
+**FDM Infrastructure**
+
+<div style="width: 20%; float:right">
+![working](./images/infrastructure.png)
+</div>
+
+* FDM Services
+
+* Consultation regarding Tools and Services
+
+* Kontakt mit den Fachbereichen der CAU
+***********
+
+
+{{4-5}}
+***********
+**Networking**
+
+<div style="width: 20%; float:right">
+![working](./images/networking.png)
+</div>
+
+* lokal Netzworks at CAU: [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
+
+* regional Netzworks: [FDM-SH](https://fdm-sh.de/), especially [AG Kompetenzentwicklung](https://fdm-sh.de/ags/)
+
+* Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen, e. g. 
+  
+  - [NFDI Sektion Training & Education](https://www.nfdi.de/section-edutrain/), 
+  
+  - [DINI/nestor AG Forschungsdaten UAG Schulungen/Fortbildungen](https://www.forschungsdaten.org/index.php/UAG_Schulungen/Fortbildungen), 
+  
+  - [GoFAIR](https://www.go-fair.org/))
+
+* International Netzworks: z.B. RDA
+***********
+
+{{5-6}}
+***********
+**Contakt**
+
+<div style="width: 20%; float:right">
+![team](./images/team.png)
+</div>
+
+Zögern Sie nicht, uns zu kontaktieren:
+
+>**DMP Beratung:**
+>
+>Thorge Petersen
+>petersen@rz.uni-kiel.de
+>
+>Andreas Christ
+>christ@ub.uni-kiel.de 
+
+>**Workshops & Lehrunterstützung:**
+>
+>Britta Petersen
+>b.petersen@rz.uni-kiel.de 
+>
+>Linda Zollisch 
+>zollitsch@ub-uni-kiel.de
+
+***********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Take-Away Messages
 
 >[!IMPORTANT] Practical Take-Away Messages
