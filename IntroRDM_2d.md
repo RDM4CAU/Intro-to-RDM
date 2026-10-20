@@ -2243,15 +2243,15 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 ![working](./images/consultation.png)
 </div>
 
-* Antragsberatung
+* Guidance on grant applications
 
-* DMP Beratung
+* DMP advice
 
-* technische Beratung (Storage, Backup, Tools, usw.)
+* Technical advice (storage, backup, tools, etc.)
 
-* Unterstützung bei Peer Reviews
+* Support with peer reviews
 
-* Hilfe bei der Datenpublikation
+* Assistance with data publication
 ***********
 
 {{2-3}}
@@ -2284,7 +2284,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 
 * Consultation regarding Tools and Services
 
-* Kontakt mit den Fachbereichen der CAU
+* Contact with the academic departments at CAU
 ***********
 
 
@@ -2296,11 +2296,11 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 ![working](./images/networking.png)
 </div>
 
-* lokal Netzworks at CAU: [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
+* lokal Networks at CAU: [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
 
-* regional Netzworks: [FDM-SH](https://fdm-sh.de/), especially [AG Kompetenzentwicklung](https://fdm-sh.de/ags/)
+* regional Networks: [FDM-SH](https://fdm-sh.de/), especially [AG Kompetenzentwicklung](https://fdm-sh.de/ags/)
 
-* Aktive Netzwerke in verschiedenen relevanten nationalen Arbeitsgruppen, e. g. 
+* Active Networks in different relevant national workinggroups, e.g. 
   
   - [NFDI Sektion Training & Education](https://www.nfdi.de/section-edutrain/), 
   
@@ -2308,7 +2308,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
   
   - [GoFAIR](https://www.go-fair.org/))
 
-* International Netzworks: z.B. RDA
+* International Networks: z.B. RDA
 ***********
 
 {{5-6}}
@@ -2319,9 +2319,9 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 ![team](./images/team.png)
 </div>
 
-Zögern Sie nicht, uns zu kontaktieren:
+Don't hesitate to contact us:
 
->**DMP Beratung:**
+>**DMP Consulting:**
 >
 >Thorge Petersen
 >petersen@rz.uni-kiel.de
@@ -2329,7 +2329,7 @@ Zögern Sie nicht, uns zu kontaktieren:
 >Andreas Christ
 >christ@ub.uni-kiel.de 
 
->**Workshops & Lehrunterstützung:**
+>**Workshops & Teaching support:**
 >
 >Britta Petersen
 >b.petersen@rz.uni-kiel.de 
@@ -2339,26 +2339,78 @@ Zögern Sie nicht, uns zu kontaktieren:
 
 ***********
 
+# Infrastructure at CAU
 
+## Open Access at Kiel University
 
+>**Information and services @Kiel University:**
+>
+>* [Guidelines for promoting Open Access at Kiel University](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
+>* [University Library](https://www.ub.uni-kiel.de/en/publishing/publishing/information?set_language=en) provides information, help and services.
+>   * [Funding of OA](https://www.ub.uni-kiel.de/en/publishing/funding-of-oa-publications?set_language=en)
+>* [MACAU is the Open Access Repository of Kiel University (CAU)](https://macau.uni-kiel.de/content/publish/information.xml?lang=en)
 
+<div style="page-break-after: always;"></div>
 
+## Open Data at Kiel University
 
+>**Information and services @Kiel University:**
+>
+>* No guidelines for promoting Open Data at Kiel University :-(
+>* [Central Research Data Management](https://www.fdm.uni-kiel.de/en?set_language=en) provides information, help and services.
+>* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml?lang=en) is the Open Data Repository of Kiel University (CAU)
 
+## Guideline on RDM at Kiel University
 
+{{1-2}}
+***********
+CAU Guideline on Research Data Management
 
+[Kiel University’s Recommendations on Handling Research Data](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinie-zum-umgang-mit-forschungsdaten-guideline-on-research-data-management-english)
+---
+- __Research data__ are the __basis and result__ of scientific work and are therefore of particular significance. It is important to handle research data responsibly to ensure that __scientific work is traceable, verifiable and reusable__
+- Handling research data is __subject to constant__ change due to __advances in research__
+- Kiel University continuously assists with this ongoing process by implementing appropriate measures
 
+************
 
+{{2-3}}
+************
+Principle 1
+---
+- __Research data__ are __all data created in the process of research work__ through observation, collection, experiments, simulation, and further processing for the __purpose of producing and validating research results__
+- __Research data management__ covers __all areas of data administration__: data acquisition, data preservation, data security and data integrity, as well as the release and publication of data
 
+**************
 
+{{3-4}}
+************
+Principle 2
+---
+- Research data management is performed in accordance with current professional standards while respecting the DFG (German Research Foundation) proposals for safeguarding good scientific practice
+- Research data management is documented in a data management plan
+- __Responsibility__ for research data management lies with the head of the particular research activity.
 
+*************
+{{4-5}}
+***********
+Principle 3
+---
+- Research data is made accessible to the public in national or international subject-specific archives under appropriate licensing; if no such archives exist, central university services are used
+- __Scientific and legal interests__ of the researchers, the protection of the personal details of participants, patients and other individuals affected by the collected data, as well as other __obligations to third parties__ – for example, cooperation partners – as well as ethical, legal and economic restrictions __must be observed__
+- __Kiel University assists researchers__ through its __central infrastructure facilities__
 
+  - Acquisition and preservation of research data
 
+  - Formulating and maintaining standards for handling research data
 
+  - Appropriate training and advisory service offers created in cooperation with the specialist disciplines
 
+- Kiel University recommends and assists with anchoring the significance of subject-specific, structured research data management in teaching by the particular subject areas
 
+************
 
-
+<div style="page-break-after: always;"></div>
 
 
 
