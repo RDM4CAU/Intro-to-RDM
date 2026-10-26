@@ -661,7 +661,7 @@ Individual/Pair Work
 {{5-6}}
 ************
 > [!IMPORTANT] **5. Publication**
-> Determine what can be shared, with whom, under what licence, at what time, and through which repository. Sensitive data may require mediated or controlled access.
+> **Determine what can be shared, with whom, under what licence, at what time, and through which repository. Sensitive data may require mediated or controlled access.**
 >
 >* What legal conditions need to be considered?
 >* What ethical conditions need to be considered?
@@ -674,7 +674,7 @@ Individual/Pair Work
 {{6}}
 ************
 > [!IMPORTANT]**6. Re-use**
->** Retain valuable data and documentation in sustainable formats and repositories. When data must be destroyed, use an approved and documented disposal method.**
+>**Retain valuable data and documentation in sustainable formats and repositories. When data must be destroyed, use an approved and documented disposal method.**
 >
 >* Which data is particularly suitable for re-use?
 >* What criteria are used to select research data in order to make it available for re-use by others?
