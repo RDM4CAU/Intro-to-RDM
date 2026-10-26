@@ -1,7 +1,7 @@
 <!--
 
 author:   Britta Petersen, Linda Zollitsch
-email:    fdm@rz.uni-kiel.de
+email:    info@fdm.uni-kiel.de
 version:  0.1.0
 language: en
 narrator: UK English Female
@@ -40,7 +40,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 "Disclaimer"
 </script>
 
->**Britta Petersen**
+>**Britta Petersen, Linda Zollitsch**
 >
 >Central Research Data Management of Kiel University
 >
@@ -2153,7 +2153,7 @@ onclick="alert('Individual work');"
 
 <div style="page-break-after: always;"></div>
 
-# RDM@CAU
+# RDM @ Kiel Unviersity
 
 {{0-1}}
 ***********
@@ -2162,7 +2162,7 @@ onclick="alert('Individual work');"
 ![services](./images/cau-services.png)
 </div>
 
-website: https://www.fdm.uni-kiel.de/de
+website: [https://www.fdm.uni-kiel.de/de](https://www.uni-kiel.de/en/university/areas-of-activity/digital-transformation/research-data-management)
 
 e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 
@@ -2197,7 +2197,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 
 * Workshops
 
- * at Graduate Center, Wissenschaftliche Weiterbildung
+ * at Graduate Center, Continuing Professional Development Center
  * small groups
  * RDM-basics
  * Specialisation, e.g. Introduction to Git (upon request)
@@ -2246,7 +2246,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 
 {{5-6}}
 ***********
-**Contakt**
+**Contact**
 
 <div style="width: 20%; float:right">
 ![team](./images/team.png)
@@ -2271,8 +2271,6 @@ Don't hesitate to contact us:
 >zollitsch@ub-uni-kiel.de
 
 ***********
-
-# Infrastructure at CAU
 
 ## Open Access at Kiel University
 
@@ -2344,8 +2342,6 @@ Principle 3
 ************
 
 <div style="page-break-after: always;"></div>
-
-
 
 
 
