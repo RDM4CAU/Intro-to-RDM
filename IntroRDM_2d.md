@@ -642,7 +642,7 @@ Individual/Pair Work
 > [!IMPORTANT] **3. Process, clean & analyse**
 >**Transcribe, validate, correct, code, anonymise, convert, or combine the data. Keep raw data preserved and document every substantive transformation.**
 >
-> **Use appropriate statistical, computational, qualitative, visual, or mixed-methods procedures. Retain the scripts, coding decisions, parameters and software information needed to understand the analysis.**
+> Use appropriate statistical, computational, qualitative, visual, or mixed-methods procedures. Retain the scripts, coding decisions, parameters and software information needed to understand the analysis.
 
 ************
 
