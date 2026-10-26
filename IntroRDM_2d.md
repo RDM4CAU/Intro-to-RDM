@@ -51,7 +51,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 >
 > If you need help, feel free to ask us any questions:
 >
-> [fdm@rz.uni-kiel.de](mailto:fdm@rz.uni-kiel.de)
+> [info@fdm.uni-kiel.de](mailto:info@fdm.uni-kiel.de)
 >
 > ____________________________________________
 >
