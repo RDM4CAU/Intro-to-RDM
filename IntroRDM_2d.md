@@ -609,7 +609,7 @@ Individual/Pair Work
 {{1-2}}
 ************
 
-> [!IMPORTANT] **1. Planning**
+> [!IMPORTANT] **1. Plan**
 >**Start planning your data handling before collection.**
 >
 >* How do you plan to create data?
@@ -649,7 +649,7 @@ Individual/Pair Work
 
 {{4-5}}
 ************
-> [!IMPORTANT] **4. Archiving**
+> [!IMPORTANT] **4. Archive**
 > **Know the obligations and chose your archiv solution accordingly.**
 >
 >* Are there any obligations regarding archiving your data?
@@ -660,7 +660,7 @@ Individual/Pair Work
 
 {{5-6}}
 ************
-> [!IMPORTANT] **5. Publication**
+> [!IMPORTANT] **5. Publicate**
 > **Determine what can be shared, with whom, under what licence, at what time, and through which repository. Sensitive data may require mediated or controlled access.**
 >
 >* What legal conditions need to be considered?
