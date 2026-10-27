@@ -133,6 +133,8 @@ At the end of the workshop you…
 
 Let us have a look at our workload for the next two days:
 
+------
+
 <div style="float:left; width:60%;">
   <p>
 
