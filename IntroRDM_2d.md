@@ -95,7 +95,7 @@ Some rules for today:
 <div style="page-break-after: always;"></div>
 
 ## Goals today
-At the end of the workshop you should…
+At the end of the workshop you…
 
 <div style="float:left; width:60%;">
   <p>
@@ -110,7 +110,7 @@ At the end of the workshop you should…
 
 - can describe what a DMP is.
 
-- **have started to scratch out a DMP for your project.**
+- have started to scratch out a DMP for your project.
 
 - know RDM related CAU contacts.
 
