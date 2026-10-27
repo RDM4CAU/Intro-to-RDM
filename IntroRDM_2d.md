@@ -131,23 +131,20 @@ At the end of the workshop you…
 
 ## Agenda
 
-Let us have a look at our workload for today:
+Let us have a look at our workload for the next two days:
 
 <div style="float:left; width:60%;">
   <p>
 
 - Research data and research data management
 - Research data lifecycle & FAIR principles
-- Data types and formats
 - Data organisation
-
-  ***LUNCH BREAK***
-
-- Documentation and metadata
-- Storage & Back Up
+- Data documentation & Metadata
+- Data types and formats
+- Back Up & Storage
 - Licenses
 - Data publication
-- **Data management plan (DMP)**
+- Data management plan (DMP)
 
 </p>
 
