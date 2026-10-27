@@ -733,13 +733,9 @@ Think about your own PhD project. Try to take notes describing what steps and pr
 ****************
 The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.
 
-F1. (Meta)data are assigned a globally unique and persistent identifier
-
-F2. Data are described with rich metadata (defined by R1 below)
-
-F3. Metadata clearly and explicitly include the identifier of the data they describe
-
-F4. (Meta)data are registered or indexed in a searchable resource
+- Findability for people and machines
+- Machine-readable metadata
+- Assignment of a persistent identifier for (meta)data
 
 ***************
 
@@ -750,13 +746,9 @@ F4. (Meta)data are registered or indexed in a searchable resource
 ***********************
 Once the user finds the required data, the user needs to know how data can be accessed, including authentication and authorisation.
 
-A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
-
-A1.1 The protocol is open, free, and universally implementable
-
-A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
-
-A2. Metadata are accessible, even when the data are no longer available
+- Availability of data and metadata for both humans and machines
+- via standard communication protocols (e.g. https)
+- Making metadata available even when the data itself is not directly accessible
 
 ******************
 
@@ -767,11 +759,9 @@ A2. Metadata are accessible, even when the data are no longer available
 **********************
 The data usually needs to be integrated with other data. In addition, the data needs to interoperate with applications or workflows for analysis, storage, and processing.
 
-I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-
-I2. (Meta)data use vocabularies that follow FAIR principles
-
-I3. (Meta)data include qualified references to other (meta)data
+- Enable the linking of different datasets
+- Use of ontologies, thesauri and machine-readable formats (e.g. XML)
+- Linking of datasets using persistent identifiers and references
 
 **********************
 
@@ -780,15 +770,11 @@ I3. (Meta)data include qualified references to other (meta)data
 
 {{6-7}}
 ***************
-The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be understood, replicated and/or combined in different settings.
+The aim of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well documented and described, and accompanied by a clear statement regarding the terms of use (licences).
 
-R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
-
-R1.1. (Meta)data are released with a clear and accessible data usage license
-
-R1.2. (Meta)data are associated with detailed provenance
-
-R1.3. (Meta)data meet domain-relevant community standards
+- Document the origin of the data (e.g. methods and equipment)
+- Cite using persistent identifiers such as DOIs
+- Licence the data to clearly specify the conditions for re-use
 
 **************
 
