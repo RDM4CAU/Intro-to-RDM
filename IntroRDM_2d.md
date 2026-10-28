@@ -436,6 +436,37 @@ Examples for research data
 {{0-1}}
 *******************
 
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
+
+                        **RESEARCH DATA CATEGORIES**
+
+    .------------.     .----------------.     .----------------------.
+    | 📚 SOURCE  |     | 📄 FORM       |     | 🧪 GENERATION METHOD |
+    '------------'     '----------------'     '----------------------'
+
+                          .-------------+-----------.
+                          | 🔓 SENSITIVITY/OPENNESS |
+                          '-------------------------'
+
+    .----------------------.    .--------------.   
+    | ⚙️ PROCESSING STAGE  |   | 📊 APPROACH  |   
+    '----------------------'    '--------------'   
+
+```
+
+
+
+
+
+
 <!-- width="80%" -->
 ``` ascii
                        **RESEARCH DATA CATEGORIES**
