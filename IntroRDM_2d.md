@@ -452,48 +452,17 @@ style="
     | 📚 SOURCE  |     | 📄 FORM       |     | 🧪 GENERATION METHOD |
     '------------'     '---------------'     '----------------------'
 
-                          .-------------+-----------.
-                          | 🔓 SENSITIVITY/OPENNESS |
-                          '-------------------------'
+                       .-------------+-----------.
+                       | 🔓 SENSITIVITY/OPENNESS |
+                       '-------------------------'
 
-    .----------------------.   .--------------.   
-    | ⚙️ PROCESSING STAGE  |   | 📊 APPROACH  |   
-    '----------------------'   '--------------'   
-
-```
-
-
-
-
-
-
-<!-- width="80%" -->
-``` ascii
-                       **RESEARCH DATA CATEGORIES**
-                                   │
-       ┌───────────────────────────┼───────────────────────────┐
-       │                           │                           │
-       │                           │                           │
-   📚 SOURCE                    📄 FORM               🧪 GENERATION METHOD
-       │                           │                           │
-   Primary                     Structured                Observational     
-   Secondary                 Semi-structured              Experimental
-   Reused                     Unstructured                 Simulation
-       │                           │                        Derived
-       │                           │                           │
-       │                           │                           │
-       ├───────────────────────────┼───────────────────────────┤
-       │                           │                           │
-       │                           │                           │
-   ⚙️ PROCESSING STAGE       📊 APPROACH             🔓 SENSITIVITY/OPENNESS
-       │                           │                           │
-       │                           │                           │
-      Raw                    Quantitative                    Open
-   Processed                 Qualitative                   Restricted
-                             Mixed Methods                   Closed
-
+        .----------------------.               .--------------.   
+        | ⚙️ PROCESSING STAGE  |               | 📊 APPROACH  |   
+        '----------------------'               '--------------'   
 
 ```
+
+
 
 *******************
 
