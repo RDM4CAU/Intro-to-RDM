@@ -608,83 +608,83 @@ Individual/Pair Work
 {{1-2}}
 ************
 
-**1. Plan**
+>**1. Plan**
 
->**Start planning your data handling before collection.**
->
->* How do you plan to create data?
->* Will data be reused? How is the data available?
->* Which data types, in terms of data formats (e.g. image data, text data or measurement data in tables) are created?
->* What volume of data can be expected?
->* What legal and ethical aspects need to be taken into account?
->* Who is responsible (for what)?
->* Which analyses are planned? What requirements must the data meet in order to be analysed as planned? What kind of software environment will you need?
->* How and where will the data be stored during the project?
->* What is your back up strategy?
->* How will the security of sensitive data be guaranteed during the project (access and usage management)?
+**Start planning your data handling before collection.**
+
+* How do you plan to create data?
+* Will data be reused? How is the data available?
+* Which data types, in terms of data formats (e.g. image data, text data or measurement data in tables) are created?
+* What volume of data can be expected?
+* What legal and ethical aspects need to be taken into account?
+* Who is responsible (for what)?
+* Which analyses are planned? What requirements must the data meet in order to be analysed as planned? What kind of software environment will you need?
+* How and where will the data be stored during the project?
+* What is your back up strategy?
+* How will the security of sensitive data be guaranteed during the project (access and usage management)?
 
 
 ************
 
 {{2-3}}
 ************
-**2. Collect or generate**
+>**2. Collect or generate**
 
-> **Use consistent procedures, tested instruments and documented protocols. Record contextual information while it is still known.**
->
->* Which (digital) methods and tools (e.g. software) are required collect and safe the (raw) data?
->* What measures are taken to ensure high quality of the data?
->* What approaches are taken to document your work in a comprehensible manner?
+ **Use consistent procedures, tested instruments and documented protocols. Record contextual information while it is still known.**
+
+* Which (digital) methods and tools (e.g. software) are required collect and safe the (raw) data?
+* What measures are taken to ensure high quality of the data?
+* What approaches are taken to document your work in a comprehensible manner?
 
 ************
 
 {{3-4}}
 ************
-**3. Process, clean & analyse**
+>**3. Process, clean & analyse**
 
->**Transcribe, validate, correct, code, anonymise, convert, or combine the data. Keep raw data preserved and document every substantive transformation.**
->
-> Use appropriate statistical, computational, qualitative, visual, or mixed-methods procedures. Retain the scripts, coding decisions, parameters and software information needed to understand the analysis.
+**Transcribe, validate, correct, code, anonymise, convert, or combine the data. Keep raw data preserved and document every substantive transformation.**
+
+Use appropriate statistical, computational, qualitative, visual, or mixed-methods procedures. Retain the scripts, coding decisions, parameters and software information needed to understand the analysis.
 
 ************
 
 
 {{4-5}}
 ************
-**4. Archive**
+>**4. Archive**
 
-> **Know the obligations and chose your archiv solution accordingly.**
->
->* Are there any obligations regarding archiving your data?
->* Do you plan to archive your data in a suitable infrastructure?
->* Are there any important scientific codes or professional standards that should be taken into account?
+ **Know the obligations and chose your archiv solution accordingly.**
+
+* Are there any obligations regarding archiving your data?
+* Do you plan to archive your data in a suitable infrastructure?
+* Are there any important scientific codes or professional standards that should be taken into account?
 
 ************
 
 {{5-6}}
 ************
-**5. Publicate**
+>**5. Publicate**
 
-> **Determine what can be shared, with whom, under what licence, at what time, and through which repository. Sensitive data may require mediated or controlled access.**
->
->* What legal conditions need to be considered?
->* What ethical conditions need to be considered?
->* Are there any restrictions to be expected with regard to publication or accessibility of the data?
->* How are usage and copyright aspects as well as ownership issues taken into account?
->* Are there any important scientific codes or professional standards to be taken into account?
+ **Determine what can be shared, with whom, under what licence, at what time, and through which repository. Sensitive data may require mediated or controlled access.**
+
+* What legal conditions need to be considered?
+* What ethical conditions need to be considered?
+* Are there any restrictions to be expected with regard to publication or accessibility of the data?
+* How are usage and copyright aspects as well as ownership issues taken into account?
+* Are there any important scientific codes or professional standards to be taken into account?
 
 ************
 
 {{6}}
 ************
-**6. Reuse**
+>**6. Reuse**
 
->**Retain valuable data and documentation in sustainable formats and repositories. When data must be destroyed, use an approved and documented disposal method.**
->
->* Which data is particularly suitable for re-use?
->* What criteria are used to select research data in order to make it available for re-use by others?
->* Are there embargo periods?
->* When can the research data expected to be used by third parties?
+**Retain valuable data and documentation in sustainable formats and repositories. When data must be destroyed, use an approved and documented disposal method.**
+
+* Which data is particularly suitable for re-use?
+* What criteria are used to select research data in order to make it available for re-use by others?
+* Are there embargo periods?
+* When can the research data expected to be used by third parties?
 
 
 ************
