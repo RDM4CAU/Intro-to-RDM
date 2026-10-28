@@ -48,13 +48,13 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 > following link/badge:
 >
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/Intro-RDM_DIVERSILLIANCE/refs/heads/main/IntroRDM_presentation.md)
->
-> If you need help, feel free to ask us any questions:
->
-> [info@fdm.uni-kiel.de](mailto:info@fdm.uni-kiel.de)
->
-> ____________________________________________
->
+
+ If you need help, feel free to ask us any questions:
+
+[info@fdm.uni-kiel.de](mailto:info@fdm.uni-kiel.de)
+
+ ____________________________________________
+
 > ![ccby](images/ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
 
 <div style="page-break-after: always;"></div>
@@ -421,11 +421,11 @@ Examples for research data
 
 >**It makes sense to consider which of the pieces of information you use as a researcher should actually be described as research data!**
 
->-> A publication used only as background reading is not normally research data. However, publications can become research data when they are systematically collected, coded, compared, annotated, or analysed. For example, 500 news articles used in a content analysis constitute research data, while five articles cited only to support an argument usually do not.
->
->-> Similarly, computer code may be research  data, a research method, or a research output. Its role depends on whether it is needed to generate, process, analyse, reproduce, or interpret the findings.
->
-><small>[Hassan, M. (2026, June 28). Research Data – Definition, Types, Examples and Best Practices.](https://researchmethod.net/research-data/)</small>
+-> A publication used only as background reading is not normally research data. However, publications can become research data when they are systematically collected, coded, compared, annotated, or analysed. For example, 500 news articles used in a content analysis constitute research data, while five articles cited only to support an argument usually do not.
+
+-> Similarly, computer code may be research  data, a research method, or a research output. Its role depends on whether it is needed to generate, process, analyse, reproduce, or interpret the findings.
+
+<small>[Hassan, M. (2026, June 28). Research Data – Definition, Types, Examples and Best Practices.](https://researchmethod.net/research-data/)</small>
 
 ***********
 
