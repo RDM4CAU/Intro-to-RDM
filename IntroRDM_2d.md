@@ -608,7 +608,8 @@ Individual/Pair Work
 {{1-2}}
 ************
 
-> [!IMPORTANT] **1. Plan**
+**1. Plan**
+
 >**Start planning your data handling before collection.**
 >
 >* How do you plan to create data?
@@ -627,7 +628,8 @@ Individual/Pair Work
 
 {{2-3}}
 ************
-> [!IMPORTANT] **2. Collect or generate**
+**2. Collect or generate**
+
 > **Use consistent procedures, tested instruments and documented protocols. Record contextual information while it is still known.**
 >
 >* Which (digital) methods and tools (e.g. software) are required collect and safe the (raw) data?
@@ -638,7 +640,8 @@ Individual/Pair Work
 
 {{3-4}}
 ************
-> [!IMPORTANT] **3. Process, clean & analyse**
+**3. Process, clean & analyse**
+
 >**Transcribe, validate, correct, code, anonymise, convert, or combine the data. Keep raw data preserved and document every substantive transformation.**
 >
 > Use appropriate statistical, computational, qualitative, visual, or mixed-methods procedures. Retain the scripts, coding decisions, parameters and software information needed to understand the analysis.
@@ -648,7 +651,8 @@ Individual/Pair Work
 
 {{4-5}}
 ************
-> [!IMPORTANT] **4. Archive**
+**4. Archive**
+
 > **Know the obligations and chose your archiv solution accordingly.**
 >
 >* Are there any obligations regarding archiving your data?
@@ -659,7 +663,8 @@ Individual/Pair Work
 
 {{5-6}}
 ************
-> [!IMPORTANT] **5. Publicate**
+**5. Publicate**
+
 > **Determine what can be shared, with whom, under what licence, at what time, and through which repository. Sensitive data may require mediated or controlled access.**
 >
 >* What legal conditions need to be considered?
@@ -672,7 +677,8 @@ Individual/Pair Work
 
 {{6}}
 ************
-> [!IMPORTANT]**6. Re-use**
+**6. Reuse**
+
 >**Retain valuable data and documentation in sustainable formats and repositories. When data must be destroyed, use an approved and documented disposal method.**
 >
 >* Which data is particularly suitable for re-use?
@@ -781,13 +787,14 @@ The aim of FAIR is to optimise the reuse of data. To achieve this, metadata and 
 
 {{7}}
 ***************
-> [!NOTE] Try to bear the FAIR principles in mind when handling your data!
+> [!IMPORTANT] Try to keep the FAIR principles in mind when handling your data!
 >
 >FAIR does **not** mean that every dataset must be openly downloadable. Restricted data can still be FAIR when its metadata is findable and the conditions for legitimate access are clearly described (Wilkinson et al., 2016).
->
->A useful principle is:
->
->Make data as open as possible and as restricted as necessary.
+
+
+A useful principle is:
+
+Make data as open as possible and as restricted as necessary.
 
 **************
 
@@ -830,7 +837,7 @@ The aim of FAIR is to optimise the reuse of data. To achieve this, metadata and 
 {{0-3}}
 *****************
 
-> [!CAUTION] Never touch raw data! Always keep your raw data unchanged in a separate folder.
+> [!IMPORTANT] Never touch raw data! Always keep your raw data unchanged in a separate folder.
 
 ---
 ********************************************************************************
@@ -901,9 +908,9 @@ The aim of FAIR is to optimise the reuse of data. To achieve this, metadata and 
 
 - When using file names for versioning
   
-  - ❌❌ Do **NOT** use unspecific name components, such as **final**, **finished**, **new** or similar ❌❌
+  - 🚫 Do **NOT** use unspecific name components, such as **final**, **finished**, **new** or similar 🚫
 
-  - Try to use emantic versioning (Major-Minor-Patch), e.g.,
+  - Try to use semantic versioning (Major-Minor-Patch), e.g.,
 
     - __0-1__ (a beta)
 
