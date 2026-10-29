@@ -981,22 +981,6 @@ Make data as open as possible and as restricted as necessary.
 <div style="page-break-after: always;"></div>
 
 
-## README Templates
-
->**Individual work**:
->![image](images/working.png) <!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Data documentation');"
--->
->
->Check our the following resources:
->
->Dockhorn, R., & Krause, M. (2024). "ReadMe" – or – "How to document your data?" (Version v1.0). Zenodo. https://doi.org/10.5281/zenodo.10648864
->
->Schröter, A., Fink, F., Golub-Overbeck, B., Hunold, J., Bonatto Minella, C., & Liermann, J. (2026). Chemistry-specific README template for data publications (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21619429
-
-<div style="page-break-after: always;"></div>
 
 ## Your folder structure & naming conventions
 
@@ -1127,6 +1111,7 @@ Metdata is...
 *******
 
 <div style="page-break-after: always;"></div>
+
 
 ### Understanding Data
 
@@ -1313,6 +1298,24 @@ Origin, Location and Meaning of Data
 </div>
 
 ---
+
+## README Templates
+
+>**Individual work**:
+>![image](images/working.png) <!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('Data documentation');"
+-->
+>
+>Check our the following resources:
+>
+>Dockhorn, R., & Krause, M. (2024). "ReadMe" – or – "How to document your data?" (Version v1.0). Zenodo. https://doi.org/10.5281/zenodo.10648864
+>
+>Schröter, A., Fink, F., Golub-Overbeck, B., Hunold, J., Bonatto Minella, C., & Liermann, J. (2026). Chemistry-specific README template for data publications (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21619429
+
+<div style="page-break-after: always;"></div>
+
 
 
 # File formats
