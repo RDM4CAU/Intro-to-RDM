@@ -441,7 +441,7 @@ style="
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 100%;
+  max-width: 80%;
   background-color: lightblue;
   stroke: black;" -->
 ``` ascii
@@ -578,11 +578,11 @@ Interview transcripts
 
 
 
-### Define your research data
+#### Define your research data
 
 ![Aufgabe](images\working.png) <!-- width="300px" align="right" -->
 
-Individual/Pair Work
+Individual Work
 ---
 **Think about your own PhD project.**
 
