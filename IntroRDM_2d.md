@@ -578,7 +578,7 @@ Interview transcripts
 
 
 
-#### Define your research data
+### Define your research data
 
 ![Aufgabe](images\working.png) <!-- width="300px" align="right" -->
 
