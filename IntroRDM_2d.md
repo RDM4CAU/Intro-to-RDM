@@ -942,6 +942,7 @@ Make data as open as possible and as restricted as necessary.
 
 <div style="page-break-after: always;"></div>
 
+
 ## Examples
 
 {{0-1}}
@@ -979,6 +980,24 @@ Make data as open as possible and as restricted as necessary.
 
 <div style="page-break-after: always;"></div>
 
+
+## README Templates
+
+>**Individual work**:
+>![image](images/working.png) <!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('Data documentation');"
+-->
+>
+>Check our the following resources:
+>
+>Dockhorn, R., & Krause, M. (2024). "ReadMe" – or – "How to document your data?" (Version v1.0). Zenodo. https://doi.org/10.5281/zenodo.10648864
+>
+>Schröter, A., Fink, F., Golub-Overbeck, B., Hunold, J., Bonatto Minella, C., & Liermann, J. (2026). Chemistry-specific README template for data publications (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21619429
+
+<div style="page-break-after: always;"></div>
+
 ## Your folder structure & naming conventions
 
 >__Individual work or group work for people working on the same project__
@@ -993,8 +1012,6 @@ onclick="alert('Individual work');"
 >Have a look at the following resource: Demerdash, Y., Dockhorn, R., & Wilbrandt, J. (2025). PhD Project Folder Template for the Life Sciences (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15835126
 >
 >- Download the resource, read README.md and have a look at the suggested folder structure.
->
->  - Where is the folder DMP?
 >
 >  - What do you think? Can it be adapted to your project? 
 >
@@ -1297,22 +1314,6 @@ Origin, Location and Meaning of Data
 
 ---
 
-## README Templates
-
->**Individual work**:
->![image](images/working.png) <!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Data documentation');"
--->
->
->Check our the following resources:
->
->Dockhorn, R., & Krause, M. (2024). "ReadMe" – or – "How to document your data?" (Version v1.0). Zenodo. https://doi.org/10.5281/zenodo.10648864
->
->Schröter, A., Fink, F., Golub-Overbeck, B., Hunold, J., Bonatto Minella, C., & Liermann, J. (2026). Chemistry-specific README template for data publications (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21619429
-
-<div style="page-break-after: always;"></div>
 
 # File formats
 {{0-1}}
