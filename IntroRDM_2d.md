@@ -653,7 +653,7 @@ Use appropriate statistical, computational, qualitative, visual, or mixed-method
 ************
 >**4. Archive**
 
- **Know the obligations and chose your archiv solution accordingly.**
+ **Know the obligations and chose your archive solution accordingly.**
 
 * Are there any obligations regarding archiving your data?
 * Do you plan to archive your data in a suitable infrastructure?
@@ -681,8 +681,8 @@ Use appropriate statistical, computational, qualitative, visual, or mixed-method
 
 **Retain valuable data and documentation in sustainable formats and repositories. When data must be destroyed, use an approved and documented disposal method.**
 
-* Which data is particularly suitable for re-use?
-* What criteria are used to select research data in order to make it available for re-use by others?
+* Which data is particularly suitable for reuse?
+* What criteria are used to select research data in order to make it available for reuse by others?
 * Are there embargo periods?
 * When can the research data expected to be used by third parties?
 
