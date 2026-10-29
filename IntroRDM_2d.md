@@ -47,7 +47,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/Intro-RDM_DIVERSILLIANCE/refs/heads/main/IntroRDM_presentation.md)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/IntroRDM_2d.md#1)
 
  If you need help, feel free to ask us any questions:
 
